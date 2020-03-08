@@ -71,7 +71,7 @@ public class freqChar1 {
 
 			}
 
-			expectedResult +=str2.charAt(j)+"" + count;
+			expectedResult += str2.charAt(j)+ "" + count;
 
 			str2 = str2.replace(""+str2.charAt(j) ,  "" ); 
 
